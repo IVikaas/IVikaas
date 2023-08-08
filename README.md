@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&multiline=true&width=600&lines=Hello+there+I'm+Vikas%2C+Welcome+to+my+Github+World.)](https://git.io/typing-svg)
+
 ![logo](https://github.com/IVikaas/IVikaas/blob/main/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
